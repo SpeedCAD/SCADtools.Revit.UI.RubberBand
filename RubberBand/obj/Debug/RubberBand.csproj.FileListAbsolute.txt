@@ -1,0 +1,8 @@
+C:\Users\elias\OneDrive\Escritorio\SCADtools\Software\Revit\RubberBand\bin\Debug\SCADtools.Revit.UI.RubberBand.dll
+C:\Users\elias\OneDrive\Escritorio\SCADtools\Software\Revit\RubberBand\bin\Debug\SCADtools.Revit.UI.RubberBand.pdb
+C:\Users\elias\OneDrive\Escritorio\SCADtools\Software\Revit\RubberBand\obj\Debug\RubberBand.csproj.AssemblyReference.cache
+C:\Users\elias\OneDrive\Escritorio\SCADtools\Software\Revit\RubberBand\obj\Debug\SCADtools.Revit.UI.Properties.Resources.resources
+C:\Users\elias\OneDrive\Escritorio\SCADtools\Software\Revit\RubberBand\obj\Debug\RubberBand.csproj.GenerateResource.cache
+C:\Users\elias\OneDrive\Escritorio\SCADtools\Software\Revit\RubberBand\obj\Debug\RubberBand.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Escritorio\SCADtools\Software\Revit\RubberBand\obj\Debug\SCADtools.Revit.UI.RubberBand.dll
+C:\Users\elias\OneDrive\Escritorio\SCADtools\Software\Revit\RubberBand\obj\Debug\SCADtools.Revit.UI.RubberBand.pdb

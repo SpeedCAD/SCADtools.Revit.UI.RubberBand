@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubberBand.rvt2023", "RubberBand.rvt2023.csproj", "{EA7D90A8-1A96-47F7-967E-AC51298D17DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{8C04342A-3AB2-4A5B-AE75-63DD3EA96596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7D90A8-1A96-47F7-967E-AC51298D17DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7D90A8-1A96-47F7-967E-AC51298D17DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7D90A8-1A96-47F7-967E-AC51298D17DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7D90A8-1A96-47F7-967E-AC51298D17DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C04342A-3AB2-4A5B-AE75-63DD3EA96596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C04342A-3AB2-4A5B-AE75-63DD3EA96596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C04342A-3AB2-4A5B-AE75-63DD3EA96596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C04342A-3AB2-4A5B-AE75-63DD3EA96596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {232258D6-2352-4A15-B52A-2A9B57CADB96}
+	EndGlobalSection
+EndGlobal
