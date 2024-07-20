@@ -2,7 +2,7 @@
 Provides an extension method for UIDocument to allow users to pick two points in the Revit model using a RubberBand mechanism.
 
 ## :rocket: Making
-- The DLL files are made using [**Visual Studio**](https://github.com/microsoft) 2022.
+- The DLL files are made using [**Visual Studio**](https://github.com/microsoft) 2022. Compiled for Revit 2023 but easily adaptable to Revit 2024, 2025, or higher.
 
 ## :keyboard: Code example
 ```c#
